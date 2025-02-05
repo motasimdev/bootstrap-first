@@ -1,0 +1,68 @@
+/* All Common Css Start  */
+* {
+  margin: 0;
+  padding: 0;
+  /* if full website has 1 font family  */
+  /* font-family: serif; */
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+/* .container {   
+    width: 1320px;
+    margin: 0 auto;
+  } */
+/* All Common Css End */
+
+/* Header Part Start  */
+
+.nav-link{
+  font-family: "Open Sans", serif;
+  color: #29313D;
+  font-size: 18px;
+  font-weight: 600;
+}
+.contact_btn{
+  padding: 20px 38px;
+  border-radius: 18px;
+  background: #8454F5;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Nunito", serif;
+}
+/* Header Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
