@@ -86,6 +86,43 @@ p {
 #service_part{
   padding: 115px 0;
 }
+.common_title h3{
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313D;
+}
+.service_item{
+  margin-top: 50px;
+  padding: 30px 20px;
+  transition: .4s;
+}
+.service_item:hover{
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+-moz-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+}
+.service_item h3{
+  padding: 20px 0;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313D;
+}
+.service_item p{
+  padding-bottom: 20px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313D;
+  line-height: 150%;
+}
+.service_item a{
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #29313D;
+}
 /* Service Part End */
 
 /* Banner Part Start  */
