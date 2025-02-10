@@ -50,6 +50,14 @@ p {
 /* Header Part End */
 
 /* Banner Part Start  */
+#banner_part{
+  padding-top: 270px;
+  padding-bottom: 250px;
+  background: url(../images/banner.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 /* Banner Part End */
 
 /* Banner Part Start  */
