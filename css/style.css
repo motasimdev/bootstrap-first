@@ -82,8 +82,11 @@ p {
 }
 /* Banner Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Service Part Start  */
+#service_part{
+  padding: 115px 0;
+}
+/* Service Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
