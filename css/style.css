@@ -27,23 +27,23 @@ p {
 /* All Common Css End */
 
 /* Header Part Start  */
-.navbar{
+.navbar {
   position: fixed;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1;
 }
-.nav-link{
+.nav-link {
   font-family: "Open Sans", serif;
-  color: #29313D;
+  color: #29313d;
   font-size: 18px;
   font-weight: 600;
 }
-.contact_btn{
+.contact_btn {
   padding: 20px 38px;
   border-radius: 18px;
-  background: #8454F5;
+  background: #8454f5;
   color: #fff;
   font-size: 18px;
   font-weight: 600;
@@ -52,7 +52,7 @@ p {
 /* Header Part End */
 
 /* Banner Part Start  */
-#banner_part{
+#banner_part {
   padding-top: 270px;
   padding-bottom: 250px;
   background: url(../images/banner.png);
@@ -60,140 +60,155 @@ p {
   background-position: center;
   background-size: cover;
 }
-.banner_text h1{
+.banner_text h1 {
   font-size: 64px;
   font-weight: 800;
   font-family: "Open Sans", serif;
-  color: #1D354F;
+  color: #1d354f;
   line-height: 60px;
 }
-.banner_text p{
+.banner_text p {
   padding-top: 30px;
   padding-bottom: 65px;
   padding-right: 77px;
   font-size: 18px;
   font-weight: 400;
   font-family: "Nunito", serif;
-  color: #29313D;
+  color: #29313d;
   line-height: 200%;
 }
 /* Banner Part End */
 
 /* Service Part Start  */
-#service_part{
+#service_part {
   padding: 115px 0;
 }
-.common_title h3{
+.common_title h3 {
   font-size: 48px;
   font-weight: 600;
   font-family: "Poppins", serif;
-  color: #29313D;
+  color: #29313d;
 }
-.service_item{
+.service_item {
   padding: 30px 20px;
-  transition: .4s;
+  transition: 0.4s;
 }
-.cmt{
+.cmt {
   margin-top: 50px;
 }
-.service_item:hover{
-  -webkit-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
--moz-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
-box-shadow: 0px 0px 20px 0px rgba(242,242,242,1);
+.service_item:hover {
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
+  box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
 }
-.service_item h3{
+.service_item h3 {
   padding: 20px 0;
   font-size: 28px;
   font-weight: 600;
   font-family: "Poppins", serif;
-  color: #29313D;
+  color: #29313d;
 }
-.service_item p{
+.service_item p {
   padding-bottom: 20px;
   font-size: 17px;
   font-weight: 400;
   font-family: "Nunito", serif;
-  color: #29313D;
+  color: #29313d;
   line-height: 150%;
 }
-.service_item a{
+.service_item a {
   font-size: 16px;
   font-weight: 700;
   font-family: "Nunito", serif;
-  color: #29313D;
+  color: #29313d;
 }
 /* Service Part End */
 
 /* App Part Start  */
-#app_part{
+#app_part {
   padding-top: 100px;
   padding-bottom: 120px;
 }
-.img_main{
+.img_main {
   position: relative;
 }
-.img_scnd img{
+.img_scnd img {
   height: 100%;
   position: absolute;
   top: -32px;
   left: 50%;
   transform: translate(-50%);
 }
-.app_righ h3{
+.app_righ h3 {
   padding-right: 98px;
   font-size: 48px;
   font-weight: 600;
   font-family: "Poppins", serif;
-  color: #29313D;
+  color: #29313d;
   line-height: 140%;
 }
-.app_righ p{
+.app_righ p {
   padding-top: 20px;
   padding-bottom: 30px;
   padding-right: 261px;
   font-size: 18px;
   font-weight: 400;
   font-family: "Nunito", serif;
-  color: #29313D;
+  color: #29313d;
   line-height: 200%;
 }
-.app_item h3{
+.app_item h3 {
   padding-top: 35px;
   padding-bottom: 18px;
   font-size: 28px;
   font-weight: 600;
   font-family: "Poppins", serif;
-  color: #29313D;
+  color: #29313d;
 }
-.app_item p{
+.app_item p {
   padding-right: 26px;
   padding-bottom: 14px;
   font-size: 18px;
   font-weight: 400;
   font-family: "Nunito", serif;
-  color: #29313D;
+  color: #29313d;
   line-height: 200%;
 }
-.app_item a{
+.app_item a {
   font-size: 16px;
   font-weight: 700;
   font-family: "Nunito", serif;
-  color: #29313D;
-  transition: .4s;
+  color: #29313d;
+  transition: 0.4s;
 }
-.app_item a:hover{
+.app_item a:hover {
   color: #6c737b;
 }
-#app_part .mb{
+#app_part .mb {
   margin-bottom: 100px;
 }
-#app_part .mt{
+#app_part .mt {
   margin-top: 100px;
 }
 /* App Part End */
 
 /* App Show Part Start  */
-
+#app_show_part {
+  padding-bottom: 110px;
+}
+.common_title p {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313d;
+}
+.show_card img {
+  -webkit-box-shadow: 0px 0px 26px 0px rgba(242, 242, 242, 1);
+  -moz-box-shadow: 0px 0px 26px 0px rgba(242, 242, 242, 1);
+  box-shadow: 0px 0px 26px 0px rgba(242, 242, 242, 1);
+}
 /* App Show Part End */
 
 /* Banner Part Start  */
