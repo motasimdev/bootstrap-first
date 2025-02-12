@@ -198,17 +198,13 @@ p {
 }
 .common_title p {
   padding-top: 40px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   font-size: 18px;
   font-weight: 400;
   font-family: "Nunito", serif;
   color: #29313d;
 }
-.show_card {
-}
-#app_show_part .card{
-  /* height: 330px; */
-}
+
 /* App Show Part End */
 
 /* Banner Part Start  */
