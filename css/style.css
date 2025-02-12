@@ -204,11 +204,35 @@ p {
   font-family: "Nunito", serif;
   color: #29313d;
 }
-
+.show_round{
+  margin: 0 5px;
+  margin-top: 45px;
+  width: 12px;
+  height: 12px;
+  background: #CFCAF7;
+  border-radius: 50%;
+  display: inline-block;
+}
+.deep{
+  background: #6A55EA;
+}
 /* App Show Part End */
 
+/* Companies Part Start  */
+/* Companies Part End */
+
 /* Banner Part Start  */
 /* Banner Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
+
