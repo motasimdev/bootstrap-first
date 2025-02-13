@@ -322,6 +322,15 @@ p {
   font-family: "Poppins", serif;
   color: #29313d;
 }
+.post_left_content{
+  margin-top: 80px;
+}
+.s_img{
+  padding: 30px 0;
+}
+.left_content_down{
+  margin-top: 30px;
+}
 /* Post Part End */
 
 /* Banner Part Start  */
