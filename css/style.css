@@ -216,16 +216,113 @@ p {
 .deep{
   background: #6A55EA;
 }
+
 /* App Show Part End */
 
 /* Companies Part Start  */
+#company_part{
+  margin-bottom: 140px;
+}
+.company_title h3{
+  line-height: 120%;
+}
+.company_name_part{
+ margin-top: 60px;
+ display: flex;
+ justify-content: space-between   ;
+}
+.company_name{
+  width: 210px;
+  height: 110px;
+  border-radius: 30px;
+  background: #F3F7FD;
+}
+.company_name_content{
+  padding-top: 39px;
+  text-align: center;
+}
 /* Companies Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Trial Part Start  */
+#trial_part{
+  padding-top: 130px;
+  padding-bottom: 100px;
+  background: #F8FDFE;
+}
+.trial_btn{
+  margin-bottom: 85px;
+  text-align: center;
+}
+.trial_item{
+  padding: 30px 30px 20px 30px;
+  border-radius: 30px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
+    box-shadow: 0px 0px 20px 0px rgba(242, 242, 242, 1);
+}
+.trial_item h4{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313d;
+  text-align: center;
+}
+.rec{
+  text-align: center;
+  position: relative;
+}
+.rec::before{
+  content: "";
+  position: absolute;
+  top: 58%;
+  left: -8%;
+  width: 181px;
+  height: 1px;
+  background: rgb(190, 190, 190);
+}
+.rec::after{
+  content: "";
+  position: absolute;
+  top: 58%;
+  right: -8%;
+  width: 181px;
+  height: 1px;
+  background: rgb(190, 190, 190);
+}
+.tk{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.tk h4{
+  padding-top: 12px;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313D;
+}
+.trial_item a{
+  margin-bottom: 30px;
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Nunito", serif;
+  color: #29313d;
+}
+/* Trial Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Post Part Start  */
+#post_part{
+  padding-top: 130px;
+  padding-bottom: 120px;
+}
+.post_left_content h4{
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313d;
+}
+/* Post Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
