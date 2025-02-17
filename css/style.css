@@ -379,14 +379,19 @@ p {
 }
 .post_right_content_down {
   padding-top: 25px;
+  align-items: center;
 }
-.post_right_content_down i {
-}
-.post_right_content_down span {
+.post_right_content_down span{
+  margin-bottom: 35px;
+  padding-left: 20px;
+  display: inline-block;
   font-size: 28px;
   font-weight: 400;
   font-family: "Poppins", serif;
   color: #29313d;
+}
+.post_right_content_down .mt{
+  padding-top: 30px;
 }
 /* Post Part End */
 
