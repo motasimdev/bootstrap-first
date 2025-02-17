@@ -321,12 +321,32 @@ p {
   font-weight: 600;
   font-family: "Poppins", serif;
   color: #29313d;
+  line-height: 130%;
+}
+.post_left_content p{
+  font-size: 18px;
+  font-weight: 400;
+font-family: "Nunito", serif;
+  color: #29313d;
+  line-height: 160%;
 }
 .post_left_content{
   margin-top: 80px;
 }
 .s_img{
   padding: 30px 0;
+}
+.s_img h5{
+  font-size: 88px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313d;
+}
+.s_img h5{
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Poppins", serif;
+  color: #29313d;
 }
 .left_content_down{
   margin-top: 30px;
