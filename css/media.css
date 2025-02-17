@@ -21,16 +21,57 @@
 @media (max-width: 575.98px) {
 
     .navbar-toggler i{
-        font-size: 50px;
+        font-size: 20px;
         color: #8454f5;
     }
 
 
-    .navbar-nav {a
+    .navbar-nav {
         background: #8454f5;
         text-align: center;
         padding: 10px 0;
         border-radius: 10px;
+    }
+
+    .nav-link {
+        color: white;
+        padding: 10px 0 !important;
+    }
+
+    #banner_part {
+        padding-top: 90px;
+        padding-bottom: 100px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+    }
+
+    .banner_text p {
+        padding-right: 0;
+        padding-bottom: 32px;
+        line-height: 150%;
+    }
+
+    .banner_text{
+        text-align: center;
+    }
+
+    #service_part {
+        padding: 50px 0;
+    }
+
+    .common_title h3 {
+        line-height: 100%;
+    }
+
+    .service_item {
+        text-align: center;
+    }
+
+    .service_item p {
+        width: 250px;
+        margin: 0 auto;
     }
 
 }
