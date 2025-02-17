@@ -445,7 +445,15 @@ p {
   font-family: "Nunito", serif;
   color: #29313d;
 }
-
+.footer_down{
+  padding-top: 80px;
+}
+.footer_down p{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313d;
+}
 /* Footer Part End */
 
 /* Banner Part Start  */
