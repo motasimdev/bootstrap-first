@@ -19,4 +19,18 @@
 
 /* Extra small devices */
 @media (max-width: 575.98px) {
+
+    .navbar-toggler i{
+        font-size: 50px;
+        color: #8454f5;
+    }
+
+
+    .navbar-nav {a
+        background: #8454f5;
+        text-align: center;
+        padding: 10px 0;
+        border-radius: 10px;
+    }
+
 }
