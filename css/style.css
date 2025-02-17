@@ -395,8 +395,27 @@ p {
 }
 /* Post Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Talk Part Start  */
+#talk_part{
+  padding: 120px 0;
+  color: #FDFDFD;
+}
+.talk_part_bg{
+  height: 436px;
+  padding-top: 155px;
+  background: #6A55EA;
+  border-radius: 80px;
+}
+.talk_title h3{
+  line-height: 140%;
+  color: #FDFDFD;
+}
+.talk_btn{
+  margin-top: 30px;
+  background: #F8FDFE;
+  color: #6A55EA;
+}
+/* Talk Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
