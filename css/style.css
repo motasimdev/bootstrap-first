@@ -417,8 +417,27 @@ p {
 }
 /* Talk Part End */
 
-/* Banner Part Start  */
-/* Banner Part End */
+/* Footer Part Start  */
+#footer_part{
+  padding-top: 135px;
+  padding-bottom: 60px;
+}
+.part_one p{
+  padding-right: 77px;
+  padding-top: 40px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313d;
+  line-height: 150%;
+}
+.part_two h4{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #29313d;
+}
+/* Footer Part End */
 
 /* Banner Part Start  */
 /* Banner Part End */
