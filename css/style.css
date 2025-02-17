@@ -381,7 +381,7 @@ p {
   padding-top: 25px;
   align-items: center;
 }
-.post_right_content_down span{
+.post_right_content_down span {
   margin-bottom: 35px;
   padding-left: 20px;
   display: inline-block;
@@ -390,39 +390,39 @@ p {
   font-family: "Poppins", serif;
   color: #29313d;
 }
-.post_right_content_down .mt{
+.post_right_content_down .mt {
   padding-top: 30px;
 }
 /* Post Part End */
 
 /* Talk Part Start  */
-#talk_part{
+#talk_part {
   padding: 120px 0;
-  color: #FDFDFD;
+  color: #fdfdfd;
 }
-.talk_part_bg{
+.talk_part_bg {
   height: 436px;
   padding-top: 155px;
-  background: #6A55EA;
+  background: #6a55ea;
   border-radius: 80px;
 }
-.talk_title h3{
+.talk_title h3 {
   line-height: 140%;
-  color: #FDFDFD;
+  color: #fdfdfd;
 }
-.talk_btn{
+.talk_btn {
   margin-top: 30px;
-  background: #F8FDFE;
-  color: #6A55EA;
+  background: #f8fdfe;
+  color: #6a55ea;
 }
 /* Talk Part End */
 
 /* Footer Part Start  */
-#footer_part{
+#footer_part {
   padding-top: 135px;
   padding-bottom: 60px;
 }
-.part_one p{
+.part_one p {
   padding-right: 77px;
   padding-top: 40px;
   font-size: 18px;
@@ -431,12 +431,21 @@ p {
   color: #29313d;
   line-height: 150%;
 }
-.part_two h4{
-  font-size: 18px;
-  font-weight: 400;
+.part_two h4 {
+  padding-bottom: 25px;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", serif;
+  color: #29313d;
+}
+.part_two p {
+  padding-top: 30px;
+  font-size: 20px;
+  font-weight: 600;
   font-family: "Nunito", serif;
   color: #29313d;
 }
+
 /* Footer Part End */
 
 /* Banner Part Start  */
